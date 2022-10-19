@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nyae44
 - 👀 I’m interested in buildimg mobile applications
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on mobile app projects
 - 📫 How to reach me @__nyae on twitter
 
 <!---
