@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nyae44
+- 👋 Hi, I’m Daley Nyae
 - 👀 I’m interested in building mobile applications
 - 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on mobile app projects
