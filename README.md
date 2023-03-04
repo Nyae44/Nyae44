@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nyae44
 - 👀 I’m interested in building mobile applications
-- 🌱 I’m currently learning Compose
+- 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on mobile app projects
 - 📫 How to reach me @_dnyae on twitter
 
