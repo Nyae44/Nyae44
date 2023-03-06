@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daley Nyae
 - 👀 I’m interested in building mobile applications
-- 🌱 I’m currently learning Unit Testing 
+- 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on mobile app projects
 - 📫 How to reach me @_dnyae on twitter
 
