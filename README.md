@@ -2,7 +2,7 @@
 - 👀 I’m interested in building mobile applications
 - 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on mobile app projects
-- 📫 How to reach me @_dnyae on twitter
+- 📫 How to reach me tingadaley@gmail.com on gmail
 
 <!---
 Nyae44/Nyae44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
