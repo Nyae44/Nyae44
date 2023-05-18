@@ -2,17 +2,6 @@
 I'm currently working on a doctor appointment booking app<br>I'm looking to collaborate on mobile app projects<br>I'm currently learning Jetpack Compose<br>Ask me about Android, Kotlin 
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nyae.dale) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daley-nyae) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@daleynyae) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:11188588) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_dnyae) 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nyae44&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nyae44&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyae44&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=_dnyae)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
