@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a doctor appointment booking app<br>I'm looking to collaborate on mobile app projects<br>I'm currently learning Jetpack Compose<br>Ask me about Android, Kotlin 
+I am Daley Nyae app<br>I'm looking to collaborate on mobile app projects<br>I'm currently learning Jetpack Compose<br>Ask me about Android, Kotlin 
 
 
 
