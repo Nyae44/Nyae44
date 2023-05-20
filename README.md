@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am Daley Nyae<br>I'm looking to collaborate on mobile app projects<br>I'm currently learning Jetpack Compose<br>Ask me about Android, Kotlin, Coroutines
+# 💫Hi There I am Daley Nyae
+Android enthusiast<br>I'm looking to collaborate on mobile app projects<br>I'm currently learning Jetpack Compose<br>Ask me about Android, Kotlin, Coroutines
 
 
 
