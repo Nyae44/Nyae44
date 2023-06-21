@@ -1,4 +1,4 @@
-# 💫Hi there! I am Daley Nyae
+# 💫Hi there! 
 An Android enthusiast<br>I'm looking to collaborate on mobile app projects<br>I'm currently learning Jetpack Compose<br>Ask me about Android, Kotlin, Coroutines
 
 
