@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nyae44&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyae44&layout=compact)](https://github.com/nyae44/github-readme-stats)
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyae44&layout=compact)](https://github.com/nyae44/github-readme-stats) -->
   
 
 
