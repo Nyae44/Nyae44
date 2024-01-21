@@ -1,5 +1,5 @@
-# 💫Hi there! 
-I am an Android enthusiast<br>I'm looking to collaborate on mobile app projects<br>I'm currently learning Jetpack Compose<br>Ask me about Android, Kotlin, Coroutines
+# Welcome
+
 
 
 
@@ -7,7 +7,6 @@ I am an Android enthusiast<br>I'm looking to collaborate on mobile app projects<
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 Nyae44/Nyae44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
