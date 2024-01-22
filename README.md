@@ -1,10 +1,3 @@
-# Welcome
-
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
@@ -12,7 +5,7 @@
 Nyae44/Nyae44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### 🔥🔥 My Stats:
+### Stats:
 
 <div id='stats' align='center'>
   
