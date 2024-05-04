@@ -1,12 +1,12 @@
 # Hi, I'm <DALEY NYAE>! 👋
 
-I am a passionate M.Tech CS student at Technical University of Mombasa, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate CS student at Technical University of Mombasa, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nyae44&theme=dark)](https://git.io/streak-stats)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
+- 🔭 I'm currently pursuing my Master's in Computer Science at Technical University.
 - 📝 I write in-depth, long-form articles on my website [dev.to](https://dev.to/nyaedaley).
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
