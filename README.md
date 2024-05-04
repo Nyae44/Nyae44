@@ -1,4 +1,4 @@
-# Hi, I'm <DALEY NYAE>! 👋
+# Hi, I'm DALEY NYAE! 👋
 
 I am a passionate CS student at Technical University of Mombasa, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
