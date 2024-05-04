@@ -8,7 +8,7 @@ I am a passionate CS student at Technical University of Mombasa, driven by a cur
 
 - 🔭 I'm currently pursuing my Bachelors Degree in Computer Science at Technical University of Mombasa.
 - 📝 I write in-depth, long-form articles on my website [dev.to](https://dev.to/nyaedaley).
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- ✍️ Content Writer at [dev.to](https://dev.to/nyaedaley), gearing up to share valuable insights with the global coding community.
 
 <!--
 ## My Articles
