@@ -37,7 +37,7 @@ I am a passionate CS student at Technical University of Mombasa, driven by a cur
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/_dnyae)
-- Read more of my articles on [theenthusiast.dev](https://dev.to/nyaedaley)
+- Read more of my articles on [dev.to](https://dev.to/nyaedaley)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
