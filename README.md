@@ -1,6 +1,6 @@
 # Hi, I'm Daley Nyae! 👋
 
-I am a passionate CS student at Technical University of Mombasa, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate CS student at Technical University of Mombasa, driven by the curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nyae44&theme=dark)](https://git.io/streak-stats)
 
