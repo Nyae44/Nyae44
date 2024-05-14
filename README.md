@@ -17,7 +17,7 @@ I am a passionate CS student at Technical University of Mombasa, driven by the c
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,django,golang,bootstrap,postgresql,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,kotlin,golang,bootstrap,postgresql,mysql)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
