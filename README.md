@@ -1,6 +1,6 @@
 # Hi, I'm Daley Nyae! 👋
 
-I am a passionate CS student at Technical University of Mombasa, driven by the curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+Passionate enough to build an MVP.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nyae44&theme=dark)](https://git.io/streak-stats)
 
@@ -21,13 +21,8 @@ I am a passionate CS student at Technical University of Mombasa, driven by the c
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Backend Development
-  - Exploring the ins and outs of Django and Python.
-  - Navigating through the world of Django Ninja for API development.
-  - Styling with Bootstrap to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-
+- 🚀 Building Data Driven Backend Solutions
+ 
 <!--
  ## 🏆 Achievements
 
