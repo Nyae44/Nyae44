@@ -1,6 +1,6 @@
 # Hi, I'm Daley Nyae! 👋
 
-Passionate enough to build an MVP.
+Passionate enough to overcome any hurdle in building an MVP.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nyae44&theme=dark)](https://git.io/streak-stats)
 
