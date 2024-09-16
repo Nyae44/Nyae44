@@ -9,7 +9,8 @@ Passionate enough to overcome any hurdle in building an MVP.
 - 🔭 I'm currently pursuing my Bachelors Degree in Computer Science at Technical University of Mombasa.
 - 📝 I write in-depth, long-form articles at [dev.to](https://dev.to/nyaedaley).
 - ✍️ Content Writer at [dev.to](https://dev.to/nyaedaley), gearing up to share valuable insights with the global coding community.
-- 🏆 My profile stats <a href="https://gitroll.io/profile/uIwvR0itQswXbwfuOC2STUGhN3wY2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uIwvR0itQswXbwfuOC2STUGhN3wY2" alt="GitRoll Profile Badge"/></a>
+ <!-- 
+- 🏆 My profile stats <a href="https://gitroll.io/profile/uIwvR0itQswXbwfuOC2STUGhN3wY2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uIwvR0itQswXbwfuOC2STUGhN3wY2" alt="GitRoll Profile Badge"/></a> -->
 <!--
 ## My Articles
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
