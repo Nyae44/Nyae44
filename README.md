@@ -7,7 +7,8 @@ Passionate enough to overcome any hurdle in building an MVP.
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Bachelors Degree in Computer Science at Technical University of Mombasa.
-- 📝 I write in-depth, long-form articles at [dev.to](https://dev.to/nyaedaley).
+- 🤖 I am passionate about **infrastructure and tooling**, focusing on building scalable and reliable systems.
+- 🦸‍♂️ My goal is to design solutions that enhance developer productivity and ensure system reliability.
 - ✍️ Content Writer at [dev.to](https://dev.to/nyaedaley), gearing up to share valuable insights with the global coding community.
  <!-- 
 - 🏆 My profile stats <a href="https://gitroll.io/profile/uIwvR0itQswXbwfuOC2STUGhN3wY2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uIwvR0itQswXbwfuOC2STUGhN3wY2" alt="GitRoll Profile Badge"/></a> -->
