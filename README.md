@@ -1,6 +1,4 @@
 # Hi, I'm Daley Nyae! 👋
-
-Passionate enough to overcome any hurdle in building an MVP.
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nyae44&theme=dark)](https://git.io/streak-stats)
 -->
@@ -8,8 +6,8 @@ Passionate enough to overcome any hurdle in building an MVP.
 ## 🚀 About Me
 
 <!--- 🔭 I'm currently pursuing my Bachelors Degree in Computer Science at Technical University of Mombasa. -->
-- 🤖 I am passionate about **infrastructure and tooling**, focusing on building scalable and reliable systems.
-- 🦸‍♂️ My goal is to design solutions that enhance developer productivity and ensure system reliability.
+- 🔧 Passionate about backend development, with a keen interest in Python and Go for building scalable, reliable systems.
+- 🌐 Dedicated to designing solutions that enhance developer productivity, optimize system performance, and ensure high availability.
 - ✍️ Content Writer at [dev.to](https://dev.to/nyaedaley), gearing up to share valuable insights with the global coding community.
  <!-- 
 - 🏆 My profile stats <a href="https://gitroll.io/profile/uIwvR0itQswXbwfuOC2STUGhN3wY2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uIwvR0itQswXbwfuOC2STUGhN3wY2" alt="GitRoll Profile Badge"/></a> -->
@@ -18,7 +16,7 @@ Passionate enough to overcome any hurdle in building an MVP.
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
 -->
 
-
+<!--
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,django,kotlin,golang,bootstrap,postgresql,mysql)](https://skillicons.dev)
 
