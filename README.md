@@ -1,12 +1,13 @@
 # Hi, I'm Daley Nyae! 👋
 
 Passionate enough to overcome any hurdle in building an MVP.
-
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nyae44&theme=dark)](https://git.io/streak-stats)
+-->
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelors Degree in Computer Science at Technical University of Mombasa.
+<!--- 🔭 I'm currently pursuing my Bachelors Degree in Computer Science at Technical University of Mombasa. -->
 - 🤖 I am passionate about **infrastructure and tooling**, focusing on building scalable and reliable systems.
 - 🦸‍♂️ My goal is to design solutions that enhance developer productivity and ensure system reliability.
 - ✍️ Content Writer at [dev.to](https://dev.to/nyaedaley), gearing up to share valuable insights with the global coding community.
@@ -23,7 +24,7 @@ Passionate enough to overcome any hurdle in building an MVP.
 
 ## 🌱 Currently Exploring
 
-- 🚀 Building Data Driven Backend Solutions
+- 🚀 Building API's with Golang
  
 <!--
  ## 🏆 Achievements
