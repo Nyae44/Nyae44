@@ -1,12 +1,12 @@
-# Hi, I'm Daley Nyae! 👋
+<!--# Hi, I'm Daley Nyae! 👋
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nyae44&theme=dark)](https://git.io/streak-stats)
 -->
 
-## 🚀 About Me
+<!--## 🚀 About Me
 
 <!--- 🔭 I'm currently pursuing my Bachelors Degree in Computer Science at Technical University of Mombasa. -->
-- 🔧 Passionate about backend development, with a keen interest in Python and Go for building scalable, reliable systems.
+<!--- 🔧 Passionate about backend development, with a keen interest in Python and Go for building scalable, reliable systems.
 - 🌐 Dedicated to designing solutions that enhance developer productivity, optimize system performance, and ensure high availability.
 - ✍️ Content Writer at [dev.to](https://dev.to/nyaedaley), gearing up to share valuable insights with the global coding community.
  <!-- 
@@ -30,7 +30,7 @@
 - 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 -->
 
-## 📬 Get in Touch
+<!--## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/_dnyae)
 - Read more of my articles on [dev.to](https://dev.to/nyaedaley)
