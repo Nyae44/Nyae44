@@ -2,7 +2,7 @@
 # 🚀 Backend Developer | Go & Python | Building Scalable Systems  
 
 I’m a backend developer passionate about building **scalable and efficient systems** in **Go and Python**.  
-My expertise spans **web development, database management, and API design**, with hands-on experience in **FastAPI, Django, and GORM**.  
+My expertise spans **web development, database management, and API design**, with hands-on experience in **FastAPI and Django**.  
 
 ## 💡 Currently, I’m working on:   
 - ✅ **E-commerce Backend** – Developing a **Go-based platform** for selling custom merchandise  
