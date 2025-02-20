@@ -8,8 +8,8 @@ My expertise spans **web development, database management, and API design**, wit
 - ✅ **E-commerce Backend** – Developing a **Go-based platform** for selling custom merchandise  
 - ✅ **Aquaculture Tech** – Exploring ways to build **automated fish counting systems**  
 
-Beyond coding, I’m actively expanding my knowledge in **cloud-native development** and plan to contribute to **CNCF projects**.  
-My long-term goal? To create **scalable solutions for aquaculture** and help businesses thrive with **tech-driven e-commerce**.  
+Beyond coding, I’m also improving my **writing skills** and contributing as a **volunteer writer at Write the Docs**.  
+My goal is to create **scalable solutions for aquaculture** and help businesses thrive with **tech-driven e-commerce**.  
 
 **Let’s connect and talk about Go, distributed systems, or building impact-driven software!**  
 
