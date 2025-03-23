@@ -1,7 +1,7 @@
 <!--# Hi, I'm Daley Nyae! 👋-->
 # 🚀 Backend Developer | Go & Python | Building Scalable Systems  
 
-I’m a backend developer passionate about building **scalable and efficient systems** in **Go and Python**.  
+I am a backend developer passionate about building **scalable and efficient systems** in **Go and Python**.  
 My expertise spans **web development, database management, and API design**, with hands-on experience in **Gin, FastAPI and Django**.  
 
 ## 💡 Currently, I’m working on:   
@@ -13,9 +13,9 @@ My goal is to create **scalable solutions for aquaculture** and help businesses 
 
 **Let’s connect and talk about Go, distributed systems, or building impact-driven software!**  
 
-<!--
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nyae44&theme=dark)](https://git.io/streak-stats)
--->
+
 
 <!--## 🚀 About Me
 
